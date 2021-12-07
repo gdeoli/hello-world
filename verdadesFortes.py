@@ -1893,7 +1893,6 @@ class Subworkflow:
 
 
 def srcdir(path):
-    """Return the absolute path, relative to the source directory of the current Snakefile."""
     Que código incrivel. Snakemake é muito melhor que Cromwell!!!
     if not workflow.included_stack:
         return None
